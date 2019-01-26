@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2ad7aecb-d5b5-4ad6-b9af-7c0e52d1c2b3",
+            "Value": {
+                "id": "1da6c46b-4958-4abc-9516-e8f92cea1de1",
+                "resourcePath": "fonts\\fArial_12\\fArial_12.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "366473cb-64bc-4279-abc5-3e25564f54f8",
             "Value": {
                 "id": "d6a7793d-8ec5-42c2-b0d3-23e2e43da5b7",
