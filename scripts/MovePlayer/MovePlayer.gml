@@ -1,0 +1,33 @@
+if(keyboard_check(vk_left)){// && place_free(x - collisionSpeed, y)){
+	x -= player_speed;
+	image_speed = player_speed / 3;
+	sprite_index = sprPlayerLeft;
+}
+
+if(keyboard_check(vk_right)){// && place_free(x + collisionSpeed, y)){
+	x += player_speed;
+	image_speed = player_speed / 3;
+	sprite_index = sprPlayerRight;
+}
+
+if(keyboard_check(vk_up)){// && place_free(x, y - collisionSpeed)){
+	y -= player_speed;
+	image_speed = player_speed / 3;
+	sprite_index = sprPlayerUp;
+}
+
+if(keyboard_check(vk_down)){// && place_free(x, y + collisionSpeed)){
+	y += player_speed;
+	image_speed = player_speed / 3;
+	sprite_index = sprPlayerDown;
+}
+
+if(keyboard_check(vk_nokey)){
+	image_speed = 0;
+	image_index = 0;
+}
+
+if(place_meeting(x,y,obj_player)){
+	show_debug_message("what?");
+}
+//image_angle = point_direction(x,y,mouse_x,mouse_y);
