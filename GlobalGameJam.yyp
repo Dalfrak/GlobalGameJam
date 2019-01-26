@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "4b465fed-a269-4907-bc2f-288458d8b929",
+            "Value": {
+                "id": "4f94aa30-9852-473e-90c6-cd4a2b1afea2",
+                "resourcePath": "objects\\obj_ctrlShaders\\obj_ctrlShaders.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4c19b34e-9bbb-40bc-8644-d0e7a2cfe65d",
             "Value": {
                 "id": "2c7c9316-dd6e-42bb-97ec-d3449ea5e4b9",
@@ -362,7 +370,7 @@
             "Key": "f8737fc7-a0ba-4633-8b62-14d9537924df",
             "Value": {
                 "id": "27448da5-775e-4242-9268-83b0259ba37e",
-                "resourcePath": "objects\\obj_obstacle\\obj_obstacle.yy",
+                "resourcePath": "objects\\obj_collectable\\obj_collectable.yy",
                 "resourceType": "GMObject"
             }
         }
