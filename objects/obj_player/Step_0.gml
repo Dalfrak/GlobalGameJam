@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-if(!global.isReadingDialogue){
-	MovePlayer();
-}
+/// @description Insérez la description ici
+// Vous pouvez écrire votre code dans cet éditeur
+
+if !global.isReadingDialogue MovePlayer();
