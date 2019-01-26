@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0ee4d8a4-95e3-4dd4-9069-0a3d24d52c79",
+            "Value": {
+                "id": "230de5f5-80ff-4735-9a6a-cdd711bbdb2a",
+                "resourcePath": "shaders\\shFadedGrey\\shFadedGrey.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "13bec638-e188-4015-b801-10acb99d0040",
             "Value": {
                 "id": "0f68bd2c-31a0-4267-b16e-3856da421d36",
