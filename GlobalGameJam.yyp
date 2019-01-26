@@ -66,7 +66,7 @@
             "Key": "0ee4d8a4-95e3-4dd4-9069-0a3d24d52c79",
             "Value": {
                 "id": "230de5f5-80ff-4735-9a6a-cdd711bbdb2a",
-                "resourcePath": "shaders\\shFadedGrey\\shFadedGrey.yy",
+                "resourcePath": "shaders\\shFadedGreyPlaines\\shFadedGreyPlaines.yy",
                 "resourceType": "GMShader"
             }
         },
@@ -108,6 +108,14 @@
                 "id": "1da6c46b-4958-4abc-9516-e8f92cea1de1",
                 "resourcePath": "fonts\\fArial_12\\fArial_12.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "31cdc849-e811-4782-bda6-6629e4731fa3",
+            "Value": {
+                "id": "b142a117-1f72-4353-9620-3c65e7740ff4",
+                "resourcePath": "views\\31cdc849-e811-4782-bda6-6629e4731fa3.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "42f4d21b-4914-4f3b-95a6-ca445e3b23da",
+            "Value": {
+                "id": "fce893ca-bdef-4017-9fff-86618a2738e3",
+                "resourcePath": "shaders\\shFadedGreyNeige\\shFadedGreyNeige.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "4830bc6a-44f9-46bc-8d1b-ab5d6d9e4e46",
             "Value": {
                 "id": "4f40c162-974b-49ff-8fce-645f30f72a03",
@@ -172,14 +188,6 @@
                 "id": "83f2fa7a-74a6-4b45-821f-36bdb2aae552",
                 "resourcePath": "views\/483f5ec2-70ac-40e0-a4e0-e21df7cd6c09.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "4b465fed-a269-4907-bc2f-288458d8b929",
-            "Value": {
-                "id": "4f94aa30-9852-473e-90c6-cd4a2b1afea2",
-                "resourcePath": "objects\\obj_ctrlShaders\\obj_ctrlShaders.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "827a50f9-d740-4d15-8035-ec1691bb4e2f",
+            "Value": {
+                "id": "b4707896-bc22-4a2f-ae05-1427971d0dc3",
+                "resourcePath": "objects\\obj_orbeNeige\\obj_orbeNeige.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "83f8b1ab-beb8-4a21-908c-c3a1e3196dcf",
             "Value": {
                 "id": "463995a3-05c2-4159-84f5-5e45e42965f7",
@@ -300,6 +316,14 @@
                 "id": "ab963d01-e3cf-49e8-a46d-80d1b299e502",
                 "resourcePath": "tilesets\\tileset0\\tileset0.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "932521d5-0768-423b-bf43-49b4219717f0",
+            "Value": {
+                "id": "4a3139da-426b-4d55-8bba-13a65700e834",
+                "resourcePath": "shaders\\shFadedGreyCimetiere\\shFadedGreyCimetiere.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -431,6 +455,14 @@
             }
         },
         {
+            "Key": "db96b0ff-bdde-46f5-a4ce-fd46c4c1aee3",
+            "Value": {
+                "id": "de40bfba-5261-4dd3-b39a-5d75dd1459bb",
+                "resourcePath": "objects\\obj_orbeCimetiere\\obj_orbeCimetiere.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dc4001b4-268e-4c11-bf30-03d2dbd75dce",
             "Value": {
                 "id": "faa6b7e8-81bf-4dea-8ecb-56fb7ab9295f",
@@ -482,7 +514,7 @@
             "Key": "f8737fc7-a0ba-4633-8b62-14d9537924df",
             "Value": {
                 "id": "27448da5-775e-4242-9268-83b0259ba37e",
-                "resourcePath": "objects\\obj_collectable\\obj_collectable.yy",
+                "resourcePath": "objects\\obj_orbePlaine\\obj_orbePlaine.yy",
                 "resourceType": "GMObject"
             }
         }
