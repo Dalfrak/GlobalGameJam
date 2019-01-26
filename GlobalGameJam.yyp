@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "3cbafdcd-2b84-4f0f-8317-4a584c52a3af",
+            "Value": {
+                "id": "5eddd654-c474-49e0-b242-9298a1b5d303",
+                "resourcePath": "objects\\obj_Igloo_mainMap\\obj_Igloo_mainMap.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ef7b2bb-1a6f-4cc8-a1b0-879861e2fc2a",
             "Value": {
                 "id": "255c5b99-7b6b-4bf7-a850-5e25f434d1f9",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "5b66ec9b-c200-4dc1-8b71-2c976744d991",
+            "Value": {
+                "id": "4b4a4e83-45a1-4b97-a58a-64ced67fb2f6",
+                "resourcePath": "objects\\obj_mainMap_Igloo\\obj_mainMap_Igloo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5bcbf2d3-89ef-4944-8b2e-e9810cdae00b",
             "Value": {
                 "id": "7b4dd767-7f8c-4751-8463-514d2476ca20",
@@ -410,7 +426,7 @@
             "Key": "8b8b03df-3b9d-4090-abb7-6c26a068dc00",
             "Value": {
                 "id": "1998d190-0bdd-410d-817e-76fa54259280",
-                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourcePath": "rooms\\IglooEntryMap\\IglooEntryMap.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -426,7 +442,7 @@
             "Key": "8e82b070-4991-4583-a07a-614d985b9b93",
             "Value": {
                 "id": "5659986f-045d-4dac-a03a-6f538cf46d22",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\mainMap\\mainMap.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -567,6 +583,14 @@
             }
         },
         {
+            "Key": "b1fe98aa-1a27-4cda-8c3b-4b4c5599baf6",
+            "Value": {
+                "id": "5b7b120c-a51c-456f-ac05-2d4f6661c930",
+                "resourcePath": "views\\b1fe98aa-1a27-4cda-8c3b-4b4c5599baf6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b2d1d6c5-6b0e-45b3-9448-4b40f50ce3e7",
             "Value": {
                 "id": "6b09abe1-b4f0-4af1-a861-791e6b6ac509",
@@ -604,6 +628,14 @@
                 "id": "b6de99a4-b477-48b4-8c48-615ea76cea79",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c42f5c0a-88b8-4c40-a154-930cc131890b",
+            "Value": {
+                "id": "80716737-1e54-4b91-b4cb-447c606408c8",
+                "resourcePath": "sprites\\sprAucun\\sprAucun.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
