@@ -1,28 +1,38 @@
 {
-    "id": "4de46f3c-a338-40db-a008-2b53706f95af",
+    "id": "13c7c7d1-1af0-48bf-8a87-34d048f1f9b4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_collectable",
+    "name": "obj_orbeMystique",
     "eventList": [
         {
-            "id": "a49e9900-1fda-4231-8d4a-c94c268a6e7b",
+            "id": "494cb055-2b74-4739-92b7-1828ba4aa37f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "4de46f3c-a338-40db-a008-2b53706f95af"
+            "m_owner": "13c7c7d1-1af0-48bf-8a87-34d048f1f9b4"
         },
         {
-            "id": "0351924d-4f6a-4d8f-99e5-3d994a7103ba",
+            "id": "61918442-37f1-452e-ba42-0e93a86d739b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "8ba9482c-9252-4055-a2d5-dc8eea44c0b5",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "4de46f3c-a338-40db-a008-2b53706f95af"
+            "eventtype": 0,
+            "m_owner": "13c7c7d1-1af0-48bf-8a87-34d048f1f9b4"
+        },
+        {
+            "id": "0e4924ad-53dc-4eb8-90e6-6bd558be24a2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "13c7c7d1-1af0-48bf-8a87-34d048f1f9b4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "18f0ea8e-b673-4826-a618-e5d9d6a2717c",
+    "spriteId": "27f4ee73-21d8-42e2-bd84-f21da6cb0d34",
     "visible": true
 }

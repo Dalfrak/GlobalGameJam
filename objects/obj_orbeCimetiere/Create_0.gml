@@ -1,7 +1,6 @@
 gris			= true;
 tiles_associees = [
 	layer_get_id("Sol_Cimetiere"),
-	layer_get_id("Foret_Cimetiere"),
 	layer_get_id("Foret_Misc_Cimetiere")
 ];
 
