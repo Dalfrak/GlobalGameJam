@@ -401,8 +401,8 @@
         {
             "Key": "8e82b070-4991-4583-a07a-614d985b9b93",
             "Value": {
-                "id": "5052715a-b502-4e11-a759-4e2393aeea2f",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "id": "5659986f-045d-4dac-a03a-6f538cf46d22",
+                "resourcePath": "rooms\\room01\\room01.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -535,19 +535,19 @@
             }
         },
         {
-            "Key": "b965baf2-7caa-4222-96fb-50b35117b1c8",
-            "Value": {
-                "id": "42d7ed07-09f2-425b-8c6e-f2267d650cff",
-                "resourcePath": "sounds\\mFeuCamp\\mFeuCamp.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "c266efe3-cfca-489e-9424-0f99167d4779",
             "Value": {
                 "id": "8a260354-4bbd-45a6-8a52-61bb8ef41d4e",
                 "resourcePath": "shaders\\shGrey\\shGrey.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "c4b6b7e0-0ba5-44fe-8bc6-ea11cd92c5f4",
+            "Value": {
+                "id": "ffcd2d8c-b628-4f70-90f7-46cd3e8e4f7a",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -692,14 +692,6 @@
                 "id": "1c2a23df-6ce6-4a0d-8368-019df0fa12ed",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f5c92c2b-1c27-4435-8fab-3262d2122e4d",
-            "Value": {
-                "id": "9dd31797-21fc-42f1-a668-d2cb95b431eb",
-                "resourcePath": "objects\\obj_feu_camp\\obj_feu_camp.yy",
-                "resourceType": "GMObject"
             }
         },
         {
