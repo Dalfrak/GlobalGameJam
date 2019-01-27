@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "1537cf0a-42a4-4b93-8561-d13ffdacf7f8",
+            "Value": {
+                "id": "74c6f674-262e-4c47-a7cd-87113c2adc67",
+                "resourcePath": "rooms\\MagmaEntryMap\\MagmaEntryMap.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1682b946-daff-45fc-bfed-6cc4e0712bac",
             "Value": {
                 "id": "3a7a473c-3a85-42f9-b256-679739ab9553",
@@ -476,14 +484,6 @@
                 "id": "cc9d3b88-8e10-4118-a99a-fcaf8bed6fb2",
                 "resourcePath": "sprites\\sprPlayerDown\\sprPlayerDown.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "627700c5-fb49-4a89-aa44-4b4fb9bbf074",
-            "Value": {
-                "id": "35d3c5f6-ee8c-476a-a96b-7f681d7ecd21",
-                "resourcePath": "rooms\\MagmaEntryMap\\MagmaEntryMap.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
