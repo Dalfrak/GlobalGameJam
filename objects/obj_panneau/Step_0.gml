@@ -21,6 +21,8 @@ if(keyboard_check_pressed(vk_space)){
 		dialogue = noone;
 		global.isReadingDialogue = false;
 	}
+	
+
 
 
 }

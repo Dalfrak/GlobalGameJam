@@ -1,9 +1,10 @@
 gris			= true;
 tiles_associees = [
-	layer_get_id("Plage1"),
-	layer_get_id("Plage2"),
-	layer_get_id("plage3"),
-	layer_get_id("plage4")
+	layer_get_id("pl_vegetation"),
+	layer_get_id("pl_coquillage"),
+	layer_get_id("pl_eau_route"),
+	layer_get_id("pl_front"),
+	layer_get_id("Sol_Plage")
 ];
 
 uni_greyscale_fade = shader_get_uniform(shFadedGreyPlage,"fade");

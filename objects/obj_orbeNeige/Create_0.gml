@@ -1,8 +1,9 @@
 gris			= true;
 tiles_associees = [
 	layer_get_id("Sol_Neige"),
-	layer_get_id("Foret_Neige"),
-	layer_get_id("Misc_Neige"),
+	layer_get_id("nei_decor"),
+	layer_get_id("nei_foret"),
+	layer_get_id("nei_front"),
 	layer_get_id("Igloo")
 ];
 

@@ -1,8 +1,9 @@
 gris			= true;
 tiles_associees = [
 	layer_get_id("Sol_Magma"),
-	layer_get_id("Magma1"),
-	layer_get_id("Magma2")
+	layer_get_id("ma_front"),
+	layer_get_id("ma_avant"),
+	layer_get_id("ma_behind")
 ];
 
 uni_greyscale_fade = shader_get_uniform(shFadedGreyMagma,"fade");
