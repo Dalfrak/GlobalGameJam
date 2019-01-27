@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "37cfe9aa-6732-4331-a3f1-760ec8118d8b",
+            "Value": {
+                "id": "145990bc-8ca6-4d26-925c-67f4b505fce2",
+                "resourcePath": "sprites\\sprVaisseauDebut\\sprVaisseauDebut.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c0123d7-eef9-4076-adff-ee561f8e0a74",
             "Value": {
                 "id": "18e706f8-1b29-4811-a7af-de2414253d3c",
@@ -1179,6 +1187,14 @@
             "Value": {
                 "id": "27448da5-775e-4242-9268-83b0259ba37e",
                 "resourcePath": "objects\\obj_ctrlOrbePlaine\\obj_ctrlOrbePlaine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f9718a8c-7781-46f5-9df6-e7f8f8053055",
+            "Value": {
+                "id": "d3f08561-637a-418e-bd04-bd88e598174e",
+                "resourcePath": "objects\\obj_vaisseauDebut\\obj_vaisseauDebut.yy",
                 "resourceType": "GMObject"
             }
         },
