@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "85990666-66ac-4ab6-a6c3-1e57578dc432"
+        "85990666-66ac-4ab6-a6c3-1e57578dc432",
+        "dd68d4cb-01ae-4ab3-b8eb-1b53739a05ef"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_2E7A8FEF","id": "85990666-66ac-4ab6-a6c3-1e57578dc432","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2E7A8FEF","objId": "6eb7fca3-3959-4e2f-a9ea-5f35ce4e6429","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 192,"y": 672}
+{"name": "inst_2E7A8FEF","id": "85990666-66ac-4ab6-a6c3-1e57578dc432","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2E7A8FEF","objId": "6eb7fca3-3959-4e2f-a9ea-5f35ce4e6429","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 192,"y": 672},
+{"name": "inst_39F87CCE","id": "dd68d4cb-01ae-4ab3-b8eb-1b53739a05ef","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_39F87CCE","objId": "435acfdc-526b-4532-8337-f95cfc9af5ac","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 416,"y": 352}
             ],
             "layers": [
 
@@ -90,7 +92,7 @@
         "Height": 768,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
-        "persistent": false,
+        "persistent": true,
         "mvc": "1.0",
         "Width": 1024
     },

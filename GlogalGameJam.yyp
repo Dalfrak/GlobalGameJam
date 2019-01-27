@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "5fc0ce87-8c7f-480f-9c17-0bba7b463618",
+            "Value": {
+                "id": "a364c903-a2f2-4f4d-8f8b-cbdd889a0e68",
+                "resourcePath": "objects\\obj_campfire1\\obj_campfire1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "627700c5-fb49-4a89-aa44-4b4fb9bbf074",
             "Value": {
                 "id": "35d3c5f6-ee8c-476a-a96b-7f681d7ecd21",
