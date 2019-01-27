@@ -1,38 +1,18 @@
 {
-    "id": "db96b0ff-bdde-46f5-a4ce-fd46c4c1aee3",
+    "id": "50bb93f9-b331-4ad9-b370-f86e12adb7c1",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_orbeCimetiere",
     "eventList": [
         {
-            "id": "4a5d9263-1a2b-4b27-bacd-0d6f222f7384",
+            "id": "ee879749-db27-4156-b353-1227b8d77af1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "db96b0ff-bdde-46f5-a4ce-fd46c4c1aee3"
-        },
-        {
-            "id": "0dadaa92-b20a-46b5-b7f3-69e7ec53c2e7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "db96b0ff-bdde-46f5-a4ce-fd46c4c1aee3"
-        },
-        {
-            "id": "57fab782-bea1-41bb-9607-57ba278e86fe",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "db96b0ff-bdde-46f5-a4ce-fd46c4c1aee3"
+            "m_owner": "50bb93f9-b331-4ad9-b370-f86e12adb7c1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

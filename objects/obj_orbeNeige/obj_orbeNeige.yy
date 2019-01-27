@@ -1,38 +1,18 @@
 {
-    "id": "827a50f9-d740-4d15-8035-ec1691bb4e2f",
+    "id": "484e8cb5-6169-4e64-9955-275981e4d46f",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_orbeNeige",
     "eventList": [
         {
-            "id": "be811564-7d4b-4782-bf03-69cc7cc2c8ed",
+            "id": "b6233004-b57a-4d74-8b01-f1cc8b626fcf",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "827a50f9-d740-4d15-8035-ec1691bb4e2f"
-        },
-        {
-            "id": "4570a99d-eb1b-4872-87fe-895d8e07b4c0",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "827a50f9-d740-4d15-8035-ec1691bb4e2f"
-        },
-        {
-            "id": "76e35d2f-515b-4b33-8793-2d4ef13a2722",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "827a50f9-d740-4d15-8035-ec1691bb4e2f"
+            "m_owner": "484e8cb5-6169-4e64-9955-275981e4d46f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

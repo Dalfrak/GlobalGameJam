@@ -2,6 +2,7 @@
 // Vous pouvez écrire votre code dans cet éditeur
 
 global.isReadingDialogue = false;
-player_speed = 6;
+global.orbes = [false, false, false, false, false, false];
+player_speed = 8;
 collisionSpeed = player_speed * 1.5;
 depth = 0;

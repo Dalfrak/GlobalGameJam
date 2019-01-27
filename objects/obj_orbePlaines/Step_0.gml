@@ -1,5 +1,5 @@
 
 if(place_meeting(x, y, obj_player)) {
-	global.orbes[4] = true;
+	global.orbes[0] = true;
 	instance_destroy();
 }

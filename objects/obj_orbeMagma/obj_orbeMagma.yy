@@ -1,38 +1,18 @@
 {
-    "id": "025b1d8f-f592-4dc5-a511-13a3cbc0b75e",
+    "id": "435acfdc-526b-4532-8337-f95cfc9af5ac",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_orbeMagma",
     "eventList": [
         {
-            "id": "f1ef6a18-4b81-4735-be7d-69b2a3989f77",
+            "id": "1720d359-ed22-4a96-8abd-f4a10b94c430",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "025b1d8f-f592-4dc5-a511-13a3cbc0b75e"
-        },
-        {
-            "id": "232e9f04-4858-4395-83c1-897823d28617",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "025b1d8f-f592-4dc5-a511-13a3cbc0b75e"
-        },
-        {
-            "id": "dfcbfa95-101e-437c-9375-bc4cd0cd06be",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "025b1d8f-f592-4dc5-a511-13a3cbc0b75e"
+            "m_owner": "435acfdc-526b-4532-8337-f95cfc9af5ac"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
