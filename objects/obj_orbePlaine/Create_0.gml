@@ -2,7 +2,7 @@ gris			= true;
 tiles_associees = [
 	layer_get_id("Sol_Plaine"),
 	layer_get_id("plaine_decor"),
-	layer_get_id("plaine_front"),
+	layer_get_id("plaine_front")
 ];
 
 uni_greyscale_fade = shader_get_uniform(shFadedGreyPlaines,"fade");
