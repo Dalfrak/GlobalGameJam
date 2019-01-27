@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "2d521981-7ad1-4fbd-92e4-31f923679bfe",
+            "Value": {
+                "id": "e5bb9866-70a0-403e-a071-a0424d5a3dbf",
+                "resourcePath": "objects\\obj_replay\\obj_replay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ea462f4-0e48-40c5-9d9c-1e636edbd189",
             "Value": {
                 "id": "a6c7067c-2e00-4ad6-a3f3-52080f2fafb9",
@@ -655,6 +663,14 @@
             }
         },
         {
+            "Key": "8a526992-a182-46e2-a761-8e940d71df6a",
+            "Value": {
+                "id": "43d270d9-e04a-430b-905e-fd0988c4646e",
+                "resourcePath": "sprites\\sprite35\\sprite35.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8b8b03df-3b9d-4090-abb7-6c26a068dc00",
             "Value": {
                 "id": "1998d190-0bdd-410d-817e-76fa54259280",
@@ -764,6 +780,14 @@
                 "id": "4f6d2d5a-21eb-423b-a980-e8defd5a9212",
                 "resourcePath": "tilesets\/neige\/neige.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "9ea923dc-074f-4a59-bc6f-099abed1f30f",
+            "Value": {
+                "id": "ee56bbd1-e4d7-4ff4-9325-27711c914dde",
+                "resourcePath": "rooms\\FinalScreen\\FinalScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -879,6 +903,14 @@
             }
         },
         {
+            "Key": "b3522302-6adf-4986-a81a-97b419841cce",
+            "Value": {
+                "id": "058d43b1-1995-4998-86e6-37d1ece50cf4",
+                "resourcePath": "sprites\\sprBgMenu\\sprBgMenu.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b5feaca3-7902-41cc-9f6d-e8cd13f2e92b",
             "Value": {
                 "id": "75ac45d7-7022-4805-9fbc-c1632250e2e4",
@@ -916,6 +948,14 @@
                 "id": "8a260354-4bbd-45a6-8a52-61bb8ef41d4e",
                 "resourcePath": "shaders\\shGrey\\shGrey.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "c26f1e07-b49c-48ed-88a8-05d358fa402c",
+            "Value": {
+                "id": "435c0adb-2239-417e-b278-71d96ebec613",
+                "resourcePath": "sprites\\sprite27\\sprite27.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
