@@ -2,5 +2,5 @@
 // Vous pouvez écrire votre code dans cet éditeur
 
 room_goto(PlageEntryMap);
-obj_player.x = 400;
-obj_player.y = 100;
+obj_player.x = 166;
+obj_player.y = 645;

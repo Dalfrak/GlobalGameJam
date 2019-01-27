@@ -2,5 +2,5 @@
 // Vous pouvez écrire votre code dans cet éditeur
 
 room_goto(mainMap);
-obj_player.x = 1128;
-obj_player.y = 1030;
+obj_player.x = 1125;
+obj_player.y = 1050;

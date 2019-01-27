@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "3512c845-4ffb-4b9d-af59-150b09da9fe8",
+            "Value": {
+                "id": "3734534d-aae8-4e0b-a422-1d6164d46cd3",
+                "resourcePath": "rooms\\MagmaEntryMap\\MagmaEntryMap.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "366473cb-64bc-4279-abc5-3e25564f54f8",
             "Value": {
                 "id": "d6a7793d-8ec5-42c2-b0d3-23e2e43da5b7",
@@ -300,6 +308,14 @@
                 "id": "255c5b99-7b6b-4bf7-a850-5e25f434d1f9",
                 "resourcePath": "sprites\\sprPlayerDown0\\sprPlayerDown0.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3f0628f3-0b36-4239-a2a4-80d0b43e22f5",
+            "Value": {
+                "id": "ac8c28c8-f80c-4ed8-ab93-6026bbb898bd",
+                "resourcePath": "rooms\\PlageEntryMap\\PlageEntryMap.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -356,6 +372,14 @@
                 "id": "8194c6f3-76bc-4c00-a8c9-0433773879cc",
                 "resourcePath": "objects\\obj_orbeMagma\\obj_orbeMagma.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "44f65655-e4ad-444b-91af-dbb38639af0e",
+            "Value": {
+                "id": "b015d18f-d2a0-498f-94cb-e557c9513571",
+                "resourcePath": "rooms\\CimetiereEntryMap\\CimetiereEntryMap.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -495,22 +519,6 @@
             }
         },
         {
-            "Key": "627700c5-fb49-4a89-aa44-4b4fb9bbf074",
-            "Value": {
-                "id": "35d3c5f6-ee8c-476a-a96b-7f681d7ecd21",
-                "resourcePath": "rooms\\MagmaEntryMap\\MagmaEntryMap.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "66d77d75-cdce-4065-84a0-1f2e8c6514d6",
-            "Value": {
-                "id": "58fb4952-41b6-44ea-8b97-2da22dd6a37c",
-                "resourcePath": "rooms\\FantasticEntryMap\\FantasticEntryMap.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "69dcaeb6-886f-414e-b170-645f411040d5",
             "Value": {
                 "id": "7cb14451-85dd-4f49-af95-136a58ad3443",
@@ -556,14 +564,6 @@
                 "id": "6acd2d38-d5e8-4129-b626-73033fdc2886",
                 "resourcePath": "shaders\\shFadedGreyPlage\\shFadedGreyPlage.yy",
                 "resourceType": "GMShader"
-            }
-        },
-        {
-            "Key": "77171e72-9330-4892-bf84-bb56e6fcd70e",
-            "Value": {
-                "id": "1146785b-d112-4fe7-82de-69b117aecb8e",
-                "resourcePath": "rooms\\PlageEntryMap\\PlageEntryMap.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -775,6 +775,14 @@
             }
         },
         {
+            "Key": "9eb4fe7b-9272-47cb-874d-fcddcc1f6c66",
+            "Value": {
+                "id": "7744d250-c274-462e-8a68-1e2a100e91f6",
+                "resourcePath": "views\\9eb4fe7b-9272-47cb-874d-fcddcc1f6c66.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9ec8f9ed-00fd-4191-86e9-0fe8d4f0805e",
             "Value": {
                 "id": "81c5467c-392f-4950-8eaa-c2bfa5597c73",
@@ -788,6 +796,14 @@
                 "id": "42843f2e-bb12-4581-a25d-abab90d674cb",
                 "resourcePath": "tilesets\\tileset1\\tileset1.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "a30964fa-43b4-4965-8dd3-ecbec512de47",
+            "Value": {
+                "id": "41984322-0a8f-4399-b22f-8d7926a5eeed",
+                "resourcePath": "rooms\\FantasticEntryMap\\FantasticEntryMap.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -887,14 +903,6 @@
             }
         },
         {
-            "Key": "b8f73456-582d-474e-9e3c-5e180d1d8aea",
-            "Value": {
-                "id": "b10adb29-7719-4e19-9d4e-8bf9a065ecb2",
-                "resourcePath": "rooms\\CimetiereEntryMap\\CimetiereEntryMap.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "ba0c8d0f-a903-4fb5-9493-2379aa232fcc",
             "Value": {
                 "id": "f94baedf-8da9-44f8-97b8-e338532d80c6",
@@ -980,6 +988,14 @@
                 "id": "f5754d91-5d8c-41f3-a144-592adec1c396",
                 "resourcePath": "sprites\\sprPanneau\\sprPanneau.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "caa89b6d-f550-4912-bd54-06c750594aae",
+            "Value": {
+                "id": "080e6983-04d9-4a25-817d-3a464f07eb72",
+                "resourcePath": "views\\8e82b070-4991-4583-a07a-614d985b9b93-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
