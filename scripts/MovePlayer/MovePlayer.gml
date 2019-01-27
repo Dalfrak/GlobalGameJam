@@ -23,8 +23,7 @@ if(keyboard_check(vk_down) and place_free(x, y + collisionSpeed)){
 }
 
 if(keyboard_check(vk_nokey)){
-	image_speed = 0;
-	image_index = 0;
+	image_speed = player_speed / 3;
 	sprite_index = sprPlayerStanding;
 }
 
