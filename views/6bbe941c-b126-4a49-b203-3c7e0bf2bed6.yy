@@ -12,7 +12,7 @@
         "3fa5b8c6-893e-4499-9b7d-23e1c203de87"
     ],
     "filterType": "GMObject",
-    "folderName": "groupOrbes",
+    "folderName": "group_orbes",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
