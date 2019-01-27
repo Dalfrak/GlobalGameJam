@@ -249,13 +249,13 @@
         "Height": 768,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
-        "persistent": false,
+        "persistent": true,
         "mvc": "1.0",
         "Width": 1248
     },
     "mvc": "1.0",
     "views": [
-{"id": "7d1a9faf-3e0e-4cb6-8926-ecf4f2c2c066","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
+{"id": "7d1a9faf-3e0e-4cb6-8926-ecf4f2c2c066","hborder": 250,"hport": 600,"hspeed": -1,"hview": 500,"inherit": false,"modelName": "GMRView","objId": "c36b7420-d1bb-4fc8-87a4-cf81a4b708bc","mvc": "1.0","vborder": 250,"visible": true,"vspeed": -1,"wport": 600,"wview": 500,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "bb85949d-9d3e-4ebb-9662-0c4f471927c7","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "83ddbc90-d74d-4a1e-9689-0da0a5116581","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "97f8e62f-da48-44bd-b402-5fc3713f41f7","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
@@ -268,7 +268,7 @@
         "id": "532daf9a-bff3-437a-bf57-93f504fb5dce",
         "clearDisplayBuffer": true,
         "clearViewBackground": false,
-        "enableViews": false,
+        "enableViews": true,
         "inheritViewSettings": false,
         "modelName": "GMRoomViewSettings",
         "mvc": "1.0"

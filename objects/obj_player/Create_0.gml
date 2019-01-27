@@ -3,6 +3,7 @@
 
 global.isReadingDialogue = false;
 global.orbes = [false, false, false, false, false, false];
-player_speed = 3.5;
+//player_speed = 3.5;
+player_speed = 8;
 collisionSpeed = player_speed * 1.5;
 depth = 0;
