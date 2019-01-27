@@ -1,7 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 //show_debug_message(collision_circle(x,y,5, obj_player, true, false));
-
 if(collision_circle(x+sprite_width/2,y+sprite_height/2,100, obj_player, true, false) && !global.isReadingDialogue){
 	if(tip == noone){
 		tip = instance_create_layer(x-sprite_height/2, y-15,"Text",obj_tips);	
